@@ -1,0 +1,1 @@
+copy Objects\output.hex ..\H7-BOOT.hex
